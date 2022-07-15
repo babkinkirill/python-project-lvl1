@@ -12,6 +12,7 @@ prompt = "^0.4.1"
 
 [tool.poetry.dev-dependencies]
 ipython = "8.4.0"
+flake8 = "^4.0.1"
 
 [tool.poetry.scripts]
 brain-games = "brain_games.scripts.brain_games:main"
