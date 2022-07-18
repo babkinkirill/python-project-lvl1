@@ -1,6 +1,9 @@
 #!/usr/bin/env python
+from brain_games.even_game import run_game
+
+
 def main():
-    print('Answer "yes" if the number is even, otherwise answer "no".')
+    run_game()
 
 
 if __name__ == '__main__':
