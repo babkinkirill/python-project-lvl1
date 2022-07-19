@@ -11,20 +11,21 @@ def run_even_game():
     while i <= 3:
         number = random.randint(1, 100)
         print(f'Question: {number}')
-        user_answer = prompt.string(f'Your answer: ')
+        user_answer = prompt.string('Your answer: ')
         if number % 2 == 0 and user_answer == 'yes':
             print('Correct!')
         elif number % 2 == 0 and user_answer != 'yes':
-            print(f"{user_answer} is wrong answer ;(. Correct answer was 'yes'\nLet's try again,{name}!")
+            print(f'''{user_answer} is wrong answer ;(.
+            Correct answer was 'yes'
+            Let's try again,{name}!''')
             return()
         if number % 2 != 0 and user_answer == 'no':
             print('Correct!')
         elif number % 2 != 0 and user_answer != 'no':
-            print(f"{user_answer} is wrong answer ;(. Correct answer was 'no'\nLet's try again,{name}!")
+            print(f'''{user_answer} is wrong answer ;(.
+            Correct answer was 'no'
+            Let's try again,{name}!''')
             return()
         i += 1
     print(f'Congratulations, {name}')
     return()
-    
-
-
