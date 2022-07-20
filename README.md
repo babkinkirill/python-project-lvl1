@@ -4,4 +4,4 @@ The author of this repository is Kirill Babkin. This is a learning project in He
 <a href="https://codeclimate.com/github/babkinkirill/python-project-lvl1/maintainability"><img src="https://api.codeclimate.com/v1/badges/a390d62517c64e249cd2/maintainability" /></a>
 
 asciinema:
-https://asciinema.org/a/e1mqRuQMvXZryfeV1IAAyG99b
+https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN
