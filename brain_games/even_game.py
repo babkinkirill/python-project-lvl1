@@ -15,15 +15,13 @@ def run_even_game():
         if number % 2 == 0 and user_answer == 'yes':
             print('Correct!')
         elif number % 2 == 0 and user_answer != 'yes':
-            print(f'''{user_answer} is wrong answer ;(.
-Correct answer was 'yes'
+            print(f'''{user_answer} is wrong answer ;(. Correct answer was 'yes'
 Let's try again,{name}!''')
             return()
         if number % 2 != 0 and user_answer == 'no':
             print('Correct!')
         elif number % 2 != 0 and user_answer != 'no':
-            print(f'''{user_answer} is wrong answer ;(.
-Correct answer was 'no'
+            print(f'''{user_answer} is wrong answer ;(. Correct answer was 'no'
 Let's try again,{name}!''')
             return()
         i += 1
