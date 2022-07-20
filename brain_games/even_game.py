@@ -16,15 +16,15 @@ def run_even_game():
             print('Correct!')
         elif number % 2 == 0 and user_answer != 'yes':
             print(f'''{user_answer} is wrong answer ;(.
-            Correct answer was 'yes'
-            Let's try again,{name}!''')
+Correct answer was 'yes'
+Let's try again,{name}!''')
             return()
         if number % 2 != 0 and user_answer == 'no':
             print('Correct!')
         elif number % 2 != 0 and user_answer != 'no':
             print(f'''{user_answer} is wrong answer ;(.
-            Correct answer was 'no'
-            Let's try again,{name}!''')
+Correct answer was 'no'
+Let's try again,{name}!''')
             return()
         i += 1
     print(f'Congratulations, {name}')
