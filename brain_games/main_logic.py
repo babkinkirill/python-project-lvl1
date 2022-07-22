@@ -8,8 +8,9 @@ def run_game(get_question_and_answer, TASK):
     print(TASK)
     i = 1
     while i <= 3:
-        question, answer, user_answer = get_question_and_answer()
+        question, answer = get_question_and_answer()
         print(f'Question: {question}')
+        user_answer = input('Your answer: ')
         if answer == user_answer:
             print('Correct!')
         else:
