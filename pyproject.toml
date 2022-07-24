@@ -4,6 +4,9 @@ version = "0.1.0"
 description = "Question and answer brain-game"
 authors = ["Kirill Babkin <babkinkirill21@gmail.com>"]
 repository = "https://github.com/babkinkirill/python-project-lvl1.git"
+classifiers = [
+  "Programming Language :: Python :: 3.8.10"
+]
 packages = [
 	{ include = "brain_games" },
 ]
