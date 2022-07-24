@@ -12,3 +12,5 @@ https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9
 https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v
 4. PROGRESSION_GAME
 https://asciinema.org/a/64xN84fxvGYCRVWYbYVuEr5r0
+5. PRIME_GAME
+https://asciinema.org/a/nAT9gl03m8E0NKFE5Mom1Arbv
