@@ -10,3 +10,5 @@ https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN
 https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9
 3. GCD_GAME
 https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v
+4. PROGRESSION_GAME
+https://asciinema.org/a/64xN84fxvGYCRVWYbYVuEr5r0
