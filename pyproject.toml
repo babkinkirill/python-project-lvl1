@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
+description = "Question and answer brain-game"
 authors = ["Kirill Babkin <babkinkirill21@gmail.com>"]
+repository = "https://github.com/babkinkirill/python-project-lvl1.git"
 packages = [
 	{ include = "brain_games" },
 ]
