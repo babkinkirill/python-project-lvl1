@@ -8,3 +8,5 @@ asciinema
 https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN
 2. CALC_GAME
 https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9
+3. GCD_GAME
+https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v
