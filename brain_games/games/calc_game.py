@@ -1,6 +1,5 @@
 import random
 import operator
-from brain_games.engine import run_game
 
 
 GAME_DESCRIPTION = 'What is the result of the expression?'
@@ -19,8 +18,3 @@ def get_question_and_answer():
     else:
         answer = str(operator.mul(number_one, number_two))
     return (question, answer)
-
-
-def run_calc_game():
-    run_game(get_question_and_answer, GAME_DESCRIPTION)
-    return
