@@ -1,8 +1,8 @@
 import random
-from brain_games.main_logic import run_game
+from brain_games.engine import run_game
 
 
-TASK = 'What number is missing in the progression?'
+GAME_DESCRIPTION = 'What number is missing in the progression?'
 
 
 def get_question_and_answer():
@@ -14,5 +14,5 @@ def get_question_and_answer():
 
 
 def run_progression_game():
-    run_game(get_question_and_answer, TASK)
+    run_game(get_question_and_answer, GAME_DESCRIPTION)
     return

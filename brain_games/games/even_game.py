@@ -1,8 +1,8 @@
 import random
-from brain_games.main_logic import run_game
+from brain_games.engine import run_game
 
 
-TASK = 'Answer "yes" if the number is even, otherwise answer "no".'
+GAME_DESCRIPTION = 'Answer "yes" if the number is even, otherwise answer "no".'
 
 
 def get_question_and_answer():
@@ -12,5 +12,5 @@ def get_question_and_answer():
 
 
 def run_even_game():
-    run_game(get_question_and_answer, TASK)
+    run_game(get_question_and_answer, GAME_DESCRIPTION)
     return

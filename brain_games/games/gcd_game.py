@@ -1,9 +1,9 @@
 import random
 import math
-from brain_games.main_logic import run_game
+from brain_games.engine import run_game
 
 
-TASK = 'Find the greatest common divisor of given numbers.'
+GAME_DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
 def get_question_and_answer():
@@ -15,5 +15,5 @@ def get_question_and_answer():
 
 
 def run_gcd_game():
-    run_game(get_question_and_answer, TASK)
+    run_game(get_question_and_answer, GAME_DESCRIPTION)
     return
