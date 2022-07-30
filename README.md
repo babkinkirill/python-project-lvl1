@@ -21,17 +21,17 @@ python3 -m pip install dist/*.whl
 
 *Asciinema*
 
-1. EVEN_GAME
-https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN
+1. EVEN_GAME  
+[![asciicast](https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN.svg)](https://asciinema.org/a/9GIh3ZsVM2UOhmvU41GK40fmN)
 
-2. CALC_GAME
-https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9
+2. CALC_GAME  
+[![asciicast](https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9.svg)](https://asciinema.org/a/MQAwttmhsi3nDmPsCWkQyOQN9)
 
-3. GCD_GAME
-https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v
+3. GCD_GAME  
+[![asciicast](https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v.svg)](https://asciinema.org/a/I5crnmQtkWQt9Fc74Aog9Gt7v)
 
-4. PROGRESSION_GAME
-https://asciinema.org/a/64xN84fxvGYCRVWYbYVuEr5r0
+4. PROGRESSION_GAME  
+[![asciicast](https://asciinema.org/a/64xN84fxvGYCRVWYbYVuEr5r0.svg)](https://asciinema.org/a/64xN84fxvGYCRVWYbYVuEr5r0)
 
-5. PRIME_GAME
-https://asciinema.org/a/nAT9gl03m8E0NKFE5Mom1Arbv
+5. PRIME_GAME  
+[![asciicast](https://asciinema.org/a/nAT9gl03m8E0NKFE5Mom1Arbv.svg)](https://asciinema.org/a/nAT9gl03m8E0NKFE5Mom1Arbv)
