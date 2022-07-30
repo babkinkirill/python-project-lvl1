@@ -1,4 +1,5 @@
 import random
+import math
 from brain_games.engine import run_game
 
 
@@ -8,13 +9,11 @@ Otherwise answer "no".'''
 
 def is_prime(question):
     k = 0
-    for i in range(2, (question // 2) + 1):
+    for i in range(2, int(math.sqrt(question) + 1)):
         if question % i == 0:
             k = k + 1
-    if k <= 0:
-        return True
-    else:
-        return False
+            return False
+    return True
 
 
 def get_question_and_answer():
