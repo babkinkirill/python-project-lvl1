@@ -14,10 +14,10 @@ Python 3.8.10
 
 *Installation*
 
-poetry install\n
-poetry build\n
-poetry publish --dry-run\n
-python3 -m pip install dist/*.whl\n
+poetry install  
+poetry build  
+poetry publish --dry-run  
+python3 -m pip install dist/*.whl  
 
 *Asciinema*
 
