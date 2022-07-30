@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 from brain_games.games.even_game import get_question_and_answer
-from brain_games.games.even_game import GAME_DESCRIPTION
 from brain_games import engine
+from brain_games.games.even_game import GAME_DESCRIPTION
 
 
 def main():
