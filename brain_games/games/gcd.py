@@ -2,7 +2,7 @@ import random
 import math
 
 
-GAME_DESCRIPTION = 'Find the greatest common divisor of given numbers.'
+DESCRIPTION = 'Find the greatest common divisor of given numbers.'
 
 
 def get_question_and_answer():
