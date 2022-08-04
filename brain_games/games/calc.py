@@ -2,7 +2,7 @@ import random
 import operator
 
 
-GAME_DESCRIPTION = 'What is the result of the expression?'
+DESCRIPTION = 'What is the result of the expression?'
 
 
 def get_question_and_answer():
@@ -15,6 +15,6 @@ def get_question_and_answer():
         answer = str(operator.add(number_one, number_two))
     elif math_symbol == '-':
         answer = str(operator.sub(number_one, number_two))
-    else:
+    elif math_symbol == '*':
         answer = str(operator.mul(number_one, number_two))
     return (question, answer)
