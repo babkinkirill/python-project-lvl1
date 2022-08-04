@@ -2,14 +2,14 @@ import random
 import math
 
 
-GAME_DESCRIPTION = '''Answer "yes" if given number is prime.
+DESCRIPTION = '''Answer "yes" if given number is prime.
 Otherwise answer "no".'''
 
 
 def is_prime(question):
     k = 0
     for i in range(2, int(math.sqrt(question) + 1)):
-        if question % i == 0:
+        if question % i == 0 or question <= 1:
             k = k + 1
             return False
     return True
